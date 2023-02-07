@@ -1,0 +1,17 @@
+@media only screen and (max-width: 375px){
+    .Sec1{
+        width: 264px;
+    }
+    .Main{
+        margin: 100px 0;
+    }
+    .Sec23{
+        flex-direction: column;
+    }
+    .Sec2{
+        border-bottom-left-radius: 0px;
+    }
+    .Sec3{
+        border-bottom-left-radius: 6px;
+    }
+}
